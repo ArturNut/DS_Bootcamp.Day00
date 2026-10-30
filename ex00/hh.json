@@ -1,0 +1,469 @@
+{
+    "found": 20,
+    "page": 0,
+    "per_page": 20,
+    "pages": 1,
+    "clusters": {},
+    "vacancies": [
+        {
+            "id": "36143622",
+            "published_at": "2020-04-11T16:21:00+0300",
+            "created_at": "2020-04-11T14:02:46+0300",
+            "name": "Специалист / data scientist (прогностическая аналитика, data mining)",
+            "has_test": false,
+            "alternate_url": "https://hh.ru/vacancy/36143622",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/0"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36143622"
+        },
+        {
+            "id": "36330833",
+            "published_at": "2020-04-12T09:21:00+0300",
+            "created_at": "2020-04-12T12:26:09+0300",
+            "name": "Data Scientist",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/36330833",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/1"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36330833"
+        },
+        {
+            "id": "35174025",
+            "published_at": "2020-04-11T12:09:00+0300",
+            "created_at": "2020-04-11T18:22:58+0300",
+            "name": "Senior Analyst / data scientist",
+            "has_test": false,
+            "alternate_url": "https://hh.ru/vacancy/35174025",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/2"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/35174025"
+        },
+        {
+            "id": "36940428",
+            "published_at": "2020-04-12T09:03:00+0300",
+            "created_at": "2020-04-12T15:21:25+0300",
+            "name": "Senior Analyst / data scientist",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/36940428",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/3"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36940428"
+        },
+        {
+            "id": "36853923",
+            "published_at": "2020-04-13T11:19:00+0300",
+            "created_at": "2020-04-13T18:58:56+0300",
+            "name": "Junior Python Developer & Data Scientist",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/36853923",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/4"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36853923"
+        },
+        {
+            "id": "36330838",
+            "published_at": "2020-04-11T08:29:00+0300",
+            "created_at": "2020-04-11T09:11:46+0300",
+            "name": "Аналитик / data scientist (big data)",
+            "has_test": false,
+            "alternate_url": "https://hh.ru/vacancy/36330838",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/5"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36330838"
+        },
+        {
+            "id": "36194742",
+            "published_at": "2020-04-11T19:08:00+0300",
+            "created_at": "2020-04-11T17:45:05+0300",
+            "name": "Senior Data Scientist",
+            "has_test": false,
+            "alternate_url": "https://hh.ru/vacancy/36194742",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/6"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36194742"
+        },
+        {
+            "id": "35507951",
+            "published_at": "2020-04-11T20:58:00+0300",
+            "created_at": "2020-04-11T15:25:31+0300",
+            "name": "Middle Data Scientist (NLP)",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/35507951",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/7"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/35507951"
+        },
+        {
+            "id": "36895586",
+            "published_at": "2020-04-11T11:05:00+0300",
+            "created_at": "2020-04-11T09:26:47+0300",
+            "name": "Data Scientist / ML Engineer (Middle)",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/36895586",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/8"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36895586"
+        },
+        {
+            "id": "36453122",
+            "published_at": "2020-04-11T11:27:00+0300",
+            "created_at": "2020-04-11T17:17:14+0300",
+            "name": "Data Scientist / ML Engineer (Middle)",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/36453122",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/9"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36453122"
+        },
+        {
+            "id": "36779888",
+            "published_at": "2020-04-12T17:16:00+0300",
+            "created_at": "2020-04-12T16:17:12+0300",
+            "name": "Специалист / data scientist (прогностическая аналитика, data mining)",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/36779888",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/10"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36779888"
+        },
+        {
+            "id": "35557042",
+            "published_at": "2020-04-12T18:52:00+0300",
+            "created_at": "2020-04-12T10:41:40+0300",
+            "name": "Senior Data Scientist",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/35557042",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/11"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/35557042"
+        },
+        {
+            "id": "36527937",
+            "published_at": "2020-04-13T13:30:00+0300",
+            "created_at": "2020-04-13T15:09:21+0300",
+            "name": "Junior Data Scientist",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/36527937",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/12"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36527937"
+        },
+        {
+            "id": "35788242",
+            "published_at": "2020-04-12T19:53:00+0300",
+            "created_at": "2020-04-12T13:45:51+0300",
+            "name": "Junior Python Developer & Data Scientist",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/35788242",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/13"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/35788242"
+        },
+        {
+            "id": "36891597",
+            "published_at": "2020-04-12T20:20:00+0300",
+            "created_at": "2020-04-12T10:45:12+0300",
+            "name": "Junior Python Developer & Data Scientist",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/36891597",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/14"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36891597"
+        },
+        {
+            "id": "36360104",
+            "published_at": "2020-04-11T11:05:00+0300",
+            "created_at": "2020-04-11T12:47:19+0300",
+            "name": "Junior Python Developer & Data Scientist",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/36360104",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/15"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36360104"
+        },
+        {
+            "id": "36873941",
+            "published_at": "2020-04-12T13:54:00+0300",
+            "created_at": "2020-04-12T11:31:47+0300",
+            "name": "Аналитик / data scientist (big data)",
+            "has_test": false,
+            "alternate_url": "https://hh.ru/vacancy/36873941",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/16"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36873941"
+        },
+        {
+            "id": "36993055",
+            "published_at": "2020-04-12T09:11:00+0300",
+            "created_at": "2020-04-12T11:21:53+0300",
+            "name": "Junior Data Scientist",
+            "has_test": false,
+            "alternate_url": "https://hh.ru/vacancy/36993055",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/17"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36993055"
+        },
+        {
+            "id": "36403038",
+            "published_at": "2020-04-12T10:28:00+0300",
+            "created_at": "2020-04-12T10:20:09+0300",
+            "name": "Аналитик / data scientist (big data)",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/36403038",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/18"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/36403038"
+        },
+        {
+            "id": "35184881",
+            "published_at": "2020-04-11T14:02:00+0300",
+            "created_at": "2020-04-11T08:34:23+0300",
+            "name": "Аналитик / data scientist (big data)",
+            "has_test": true,
+            "alternate_url": "https://hh.ru/vacancy/35184881",
+            "employer": {
+                "name": "Компания N",
+                "url": "https://api.hh.ru/employers/19"
+            },
+            "salary": null,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "type": {
+                "name": "open"
+            },
+            "url": "https://api.hh.ru/vacancies/35184881"
+        }
+    ]
+}
